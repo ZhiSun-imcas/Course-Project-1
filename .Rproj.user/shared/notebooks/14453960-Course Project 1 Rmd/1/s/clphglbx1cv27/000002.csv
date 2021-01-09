@@ -1,0 +1,6 @@
+"0","Mean_Filled <- mean(TotalStepPerDay_Filled); "
+"0","print(Mean_Filled)"
+"1","[1]"
+"1"," 10766.19"
+"1","
+"

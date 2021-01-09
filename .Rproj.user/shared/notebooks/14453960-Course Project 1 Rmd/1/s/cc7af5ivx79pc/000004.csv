@@ -1,0 +1,2 @@
+"0","TotalStepPerDay_Filled <- tapply(FilledData, RowData$date, sum)"
+"0","hist(TotalStepPerDay_Filled, main = ""the total number of filled steps taken each day"", xlab = ""the total filled steps"")"
